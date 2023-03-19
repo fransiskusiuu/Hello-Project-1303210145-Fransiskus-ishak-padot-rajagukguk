@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1672813789 source:c:\alpro\test\tugasonline\tubes\movieproject\main.cpp
+	<iostream>
+	"movie.h"
+
+1672813543 source:c:\alpro\test\tugasonline\tubes\movieproject\project.cpp
+	"movie.h"
+
+1672813472 c:\alpro\test\tugasonline\tubes\movieproject\movie.h
+	<iostream>
+
+1672944407 source:c:\users\michael sihotang\desktop\movieproject\main.cpp
+	<iostream>
+	"movie.h"
+
+1672944789 c:\users\michael sihotang\desktop\movieproject\movie.h
+	<iostream>
+
+1672944376 source:c:\users\michael sihotang\desktop\movieproject\project.cpp
+	"movie.h"
+
+1672944408 source:c:\users\padod\onedrive\desktop\movieproject\main.cpp
+	<iostream>
+	"movie.h"
+
+1672944790 c:\users\padod\onedrive\desktop\movieproject\movie.h
+	<iostream>
+
+1672944782 source:c:\users\padod\onedrive\desktop\movieproject\project.cpp
+	"movie.h"
+
